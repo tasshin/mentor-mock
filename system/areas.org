@@ -1,0 +1,14 @@
+#+TITLE: Areas & Assignments
+#+ARCHIVE: ::* Archive
+
+* Areas
+Each Area has an associated assignment/curriculum and growth edge tracking.
+** [Area Name]
+:PROPERTIES:
+:Motivation: [WHY THIS AREA MATTERS TO YOU — what draws you to it, what you hope to gain, how it connects to your values and life vision]
+:Mentors: [NAMES OF PEOPLE — real, historical, or imaginal — who guide you in this area]
+:Growth-Edges: [WHERE YOU ARE DEVELOPING — your current frontier of learning and challenge]
+:Obstacle: [WHAT'S IN THE WAY — real blockers, fears, limiting beliefs, practical constraints]
+:Assignment: [WHAT TO DO NEXT — specific, actionable, calibrated to your current state]
+:Last-SOP-Date:
+:END:

@@ -1,0 +1,5 @@
+/.beads/
+/.gitattributes
+
+# bv (beads viewer) local config and caches
+.bv/
