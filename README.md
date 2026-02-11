@@ -17,10 +17,24 @@ The system is designed to work with Claude (or another AI assistant) through a `
 
 1. **Fork or copy this repository**
 2. **Fill in `CLAUDE.md`** with your personal context, learning style, and preferences
-3. **Set up your areas** in `system/areas.org` — the domains of life U want to grow in
-4. **Add your mentors** to `system/mentors.org` — real people, historical figures, fictional characters, or archetypes
-5. **Start using the SOPs** in `system/procedures.org` — create structured processes for check-ins, deep dives, and reviews
+3. **Set up your areas** in `system/areas` — the domains of life U want to grow in
+4. **Add your mentors** to `system/mentors` — real people, historical figures, fictional characters, or archetypes
+5. **Start using the SOPs** in `system/procedures` — create structured processes for check-ins, deep dives, and reviews
 6. **Let it evolve** — the system grows as U use it
+
+### A Note on File Formats
+
+The template files use [org-mode](https://orgmode.org/) (`.org`), but **U don't need to use org-mode**. Markdown, plain text, Notion exports, or whatever format U think in — all work fine. The AI reads them all. What matters is the structure and the concepts, not the file extension.
+
+If U want to convert the included `.org` files to markdown or another format, [pandoc](https://pandoc.org/) makes it easy:
+
+```bash
+# Convert a single file
+pandoc system/areas.org -o system/areas.md
+
+# Convert all org files to markdown
+for f in system/*.org; do pandoc "$f" -o "${f%.org}.md"; done
+```
 
 ## File Structure
 
@@ -30,12 +44,12 @@ The system is designed to work with Claude (or another AI assistant) through a `
 
 ### System (`system/`)
 The core of the mentor system:
-- **PRINCIPLES.org** — Guiding principles (multiplicity, rotating perspectives, person-mentor fit, etc.)
-- **procedures.org** — Standard operating procedures for how U do things with your mentor
-- **mentor.org** — The primary Mentor persona definition with role configurations
-- **areas.org** — Your life areas with growth edges, obstacles, and assignments
-- **mentors.org** — Index of your mentors (real, historical, imaginal)
-- **conversations.org** — Log of conversations for continuity across sessions
+- **PRINCIPLES** — Guiding principles (multiplicity, rotating perspectives, person-mentor fit, etc.)
+- **procedures** — Standard operating procedures for how U do things with your mentor
+- **mentor** — The primary Mentor persona definition with role configurations
+- **areas** — Your life areas with growth edges, obstacles, and assignments
+- **mentors** — Index of your mentors (real, historical, imaginal)
+- **conversations** — Log of conversations for continuity across sessions
 
 ### Context (`context/`)
 Personal context documents:
