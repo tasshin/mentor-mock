@@ -62,7 +62,9 @@ Claude tags which role is active within messages:
 
 ## Key Resources
 
-- `system/mentors.org` — Index of mentors with links to detailed files
-- `system/areas.org` — Life areas with assignments and growth edges
-- `system/procedures.org` — Standard operating procedures
-- `system/conversations.org` — Conversation log for continuity
+These files may be in any format (org-mode, markdown, plain text, etc.):
+
+- `system/mentors` — Index of mentors with links to detailed files
+- `system/areas` — Life areas with assignments and growth edges
+- `system/procedures` — Standard operating procedures
+- `system/conversations` — Conversation log for continuity
