@@ -55,6 +55,10 @@ The core of the mentor system:
 Personal context documents:
 - **U As A Learner.txt** — How U learn, your preferences and needs (share with teachers/mentors)
 
+### Reference (`reference/`)
+Optional background material U can feed to the AI for richer context:
+- **The Path of Curiosity.txt** — A book about curiosity, learning, mentors, skill trees, and following your questions ([Tasshin Fogleman](https://tasshin.com), CC BY-NC-SA 4.0). Included as an example of the kind of reference material that deepens person-mentor fit — U can replace it with your own writing, favorite books, or other documents that help the AI understand how U think.
+
 ## Core Concepts
 
 ### The Rubik's Cube Metaphor
