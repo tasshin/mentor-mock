@@ -64,4 +64,4 @@ The most important file to fill in first is `CLAUDE.md`. The more context U give
 3. Your current life areas and what matters most
 4. A few mentors U already look up to
 
-Then try running one of the SOPs — the Morning Check-In is a good starting point.
+When you're ready, try creating an SOP.

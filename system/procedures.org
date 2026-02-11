@@ -2,28 +2,30 @@
 
 * Area Check-In SOP
 Review and develop an Area through mentorship dialogue.
-
 ** Process
 1. Pick an Area. Share recent updates (notes, logs, journal entries).
 2. Mentor reads the material and offers reflections.
 3. Mentor proposes growth edges, obstacles, and a next assignment.
 4. You respond — accept, modify, or redirect.
 5. Update areas.org with what you agree on, using your exact words.
-
 ** Guidelines
 - Be specific, not generic. Keep proposals short (2-3 options max).
 - Iterative conversation — don't try to solve everything at once.
 - Use the person's exact words when documenting.
-
 * Mentor Elaboration SOP
 Add a new mentor with minimum viable information.
-
 ** Process
 1. You identify which mentor to add.
 2. Mentor asks: "Who is [Mentor Name]?" — you share context.
 3. Mentor compiles your response into a mentor page using your exact words.
 4. Add entry to mentors.org with Type, Areas, and optional file link.
-
 ** Guidelines
 - One question is usually enough. Keep it brief — expand later.
 - Use exact words when compiling — do not rewrite.
+* Suggestions for other SOP's
+Talk to mentor about making a U-shaped version of these procedures!
+** [Weekly/Biweekly/Monthly Curiosity Update]
+** Conversations with Mentor
+** Skill Tree Creation
+** Learning Plan Creation
+** Morning Check-In or Evening Check-Out
